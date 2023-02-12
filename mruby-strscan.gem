@@ -1,0 +1,7 @@
+name: mruby-strscan
+description: StringScanner class
+author: OKURA Masafumi
+website: https://github.com/okuramasafumi/mruby-strscan
+protocol: git
+repository: https://github.com/okuramasafumi/mruby-strscan.git
+license: MIT
